@@ -1,4 +1,4 @@
-# 📖 Islamic Research Mobile (iOS & Android)
+# 📖 Islamic Research App (Android)
 
 <p align="center">
   <img src="assets/icons/app_crest.png" width="120" alt="Islamic Research Crest" /><br/>
@@ -126,13 +126,13 @@ Native typography, full Right-to-Left (RTL) mirroring, and localized numerals ac
 
 ---
 
-## 🏗️ Architecture & Technical Stack
+## 📱 App Specifications & Privacy
 
-- **Framework**: Flutter 3.47+ / Dart 3.13+
-- **Architecture**: Clean Architecture & Feature-Driven (`lib/features/`, `lib/core/`)
+- **Platform**: Android 5.0 (Lollipop, API 21) or newer (Smartphones & Tablets)
+- **Classical Heritage**: 12,948 Classical Volumes & 3,158 Scholars across all Islamic eras
 - **Dual-Source Engine**:
-  - **Turath Digital Folios**: High-fidelity classical manuscripts and typography.
-  - **OpenITI Classical Corpus**: Machine-actionable historical Islamicate corpus for computational analysis.
-- **AI Deliberation**: Multi-agent reasoning pipeline delivering structured answers with Isnads, Matn, and grading.
-- **Offline Storage**: SQLite database for folios, research notes, and table of contents.
-- **Target Platforms**: Android (API 21–35) & iOS.
+  - **Turath Folio Archives**: Authentic classical typography, page preservation, and manuscript folios.
+  - **OpenITI Corpus**: Computational cross-referencing and historical metadata.
+- **Multilingual Support**: 17 Languages with native fonts and Right-to-Left (RTL) mirroring.
+- **Offline Reading**: On-device caching for folios, table of contents, and personal marginalia (*Hashiyah*).
+- **Privacy & Security**: Built with default Guest Mode (no account required to research), cryptographically signed release builds.
