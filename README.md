@@ -2,14 +2,14 @@
 
 <p align="center">
   <img src="assets/icons/app_crest.png" width="120" alt="Islamic Research Crest" /><br/>
-  <b>A Native Scholarly Companion for Classical Heritage, Hadith Verification & Comparative Jurisprudence</b>
+  <b>A Native Scholarly Companion for Classical Heritage (Al-Maktaba al-Shamela & OpenITI), Hadith Verification & Comparative Jurisprudence</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/imranul1910/islamic-research-app/releases/latest"><img src="https://img.shields.io/github/v/release/imranul1910/islamic-research-app?label=Download%20APK&color=2ea44f&logo=android" alt="Download APK" /></a>
   <a href="https://github.com/imranul1910/islamic-research-app"><img src="https://img.shields.io/badge/Platform-Android%205.0%2B-blue?logo=android" alt="Platform Android" /></a>
   <a href="#-multilingual-localization-17-languages"><img src="https://img.shields.io/badge/Languages-17%20Supported-purple" alt="17 Languages" /></a>
-  <img src="https://img.shields.io/badge/Classical%20Corpus-12%2C948%20Volumes-gold" alt="12,948 Volumes" />
+  <img src="https://img.shields.io/badge/Shamela%20%26%20OpenITI-12%2C948%20Volumes-gold" alt="12,948 Volumes (Shamela & OpenITI)" />
 </p>
 
 ---
@@ -126,13 +126,13 @@ Native typography, full Right-to-Left (RTL) mirroring, and localized numerals ac
 
 ---
 
-## 📱 App Specifications & Privacy
+## 📱 App Specifications & Scholarly Corpus
 
 - **Platform**: Android 5.0 (Lollipop, API 21) or newer (Smartphones & Tablets)
-- **Classical Heritage**: 12,948 Classical Volumes & 3,158 Scholars across all Islamic eras
-- **Dual-Source Engine**:
-  - **Turath Folio Archives**: Authentic classical typography, page preservation, and manuscript folios.
-  - **OpenITI Corpus**: Computational cross-referencing and historical metadata.
+- **Comprehensive Classical Corpus (12,948 Volumes & 3,158 Authors)**:
+  - **Al-Maktaba al-Shamela (المكتبة الشاملة)**: 8,609 authoritative classical texts across Tafsir, Hadith, Fiqh, Usul al-Fiqh, Aqeedah, and Tarikh with verified volume/page pagination.
+  - **OpenITI Classical Corpus**: 4,339 historical Islamicate texts for computational analysis, Isnad networks, and scholarly transmission chains.
+- **Turath Folio Engine**: Authentic manuscript typography, page-by-page preservation, and translated bilingual table of contents.
 - **Multilingual Support**: 17 Languages with native fonts and Right-to-Left (RTL) mirroring.
-- **Offline Reading**: On-device caching for folios, table of contents, and personal marginalia (*Hashiyah*).
+- **Offline Scholarly Archive**: On-device caching for folios, chapter indices, and personal marginalia (*Hashiyah*).
 - **Privacy & Security**: Built with default Guest Mode (no account required to research), cryptographically signed release builds.
